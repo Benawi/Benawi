@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🌐 Socials:
-![image](https://user-images.githubusercontent.com/21217148/210181196-e06aabd4-57e9-430d-9c75-f550f478321c.png)
-
+![image](https://user-images.githubusercontent.com/21217148/210181196-e06aabd4-57e9-430d-9c75-f550f478321c.png) 
 # 💻 Tech Stack:
-![image](https://user-images.githubusercontent.com/21217148/210181497-6baa780c-aa27-4de5-98c5-4d4455a5bd07.png)
-
 ![image](https://user-images.githubusercontent.com/21217148/210181208-51e566ef-4cac-4a30-9462-c58a4d18412a.png)
 ![image](https://user-images.githubusercontent.com/21217148/210181212-9d14cfad-be1a-45ac-9084-5223fadaecfe.png)
 ![image](https://user-images.githubusercontent.com/21217148/210181216-49dd1680-6860-4bda-a251-40f67dfbe75a.png)
