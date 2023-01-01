@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://visitcount.itsvg.in">
+<a href="#">
   <img src="https://visitcount.itsvg.in/api?id=Benawi&label=Profile%20Views&color=3&icon=5&pretty=false" />
 </a>
 
