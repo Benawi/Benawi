@@ -16,6 +16,18 @@ Here are some ideas to get you started:
 -->
 # 🌐 Socials:
 ![image](https://user-images.githubusercontent.com/21217148/210181196-e06aabd4-57e9-430d-9c75-f550f478321c.png) 
+![image](https://user-images.githubusercontent.com/21217148/210182987-ab421647-7f90-4a4b-9fe8-d3dbae91c684.png)
+![image](https://user-images.githubusercontent.com/21217148/210182990-23401631-264d-4802-acc2-0e085293d98c.png)
+![image](https://user-images.githubusercontent.com/21217148/210182994-3851b187-b63f-4bf1-aeef-4bb10120c1b4.png)
+![image](https://user-images.githubusercontent.com/21217148/210182997-8d554efb-58b2-460b-a858-06a40905e1cd.png)
+[![](https://visitcount.itsvg.in/api?id=Benawi&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Benawi&label=Profile%20Views&color=3&icon=5&pretty=false" />
+</a>
+
 # 💻 Tech Stack:
 
 
