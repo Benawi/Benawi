@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 # 🌐 Socials:
 ![image](https://user-images.githubusercontent.com/21217148/210181196-e06aabd4-57e9-430d-9c75-f550f478321c.png) 
 # 💻 Tech Stack:
+
+
+
 ![image](https://user-images.githubusercontent.com/21217148/210181208-51e566ef-4cac-4a30-9462-c58a4d18412a.png)
 ![image](https://user-images.githubusercontent.com/21217148/210181212-9d14cfad-be1a-45ac-9084-5223fadaecfe.png)
 ![image](https://user-images.githubusercontent.com/21217148/210181216-49dd1680-6860-4bda-a251-40f67dfbe75a.png)
@@ -32,6 +35,10 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/21217148/210181277-e1cfbee0-7c87-4919-8d6e-cc9cbfdbd2ae.png)
 ![image](https://user-images.githubusercontent.com/21217148/210181287-2290a126-8d76-43df-9dfb-a4cd5f27dcc1.png)
 ![image](https://user-images.githubusercontent.com/21217148/210181294-05967ff1-35bd-4e85-bb3b-b6c1a059a7e5.png)
+![210182380-414c337e-f7d0-43be-ad07-113c377ccc78](https://user-images.githubusercontent.com/21217148/210182489-be7148e4-2086-4032-82f9-62574edee9ce.png)
+![210182171-86e3471a-58df-47be-ac02-fdf0b26d4f03](https://user-images.githubusercontent.com/21217148/210182322-517eaa29-0ff9-4d26-9ba9-3982a26b272a.jpg)
+
+
 
 
 
