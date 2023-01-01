@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 
 ![210182380-414c337e-f7d0-43be-ad07-113c377ccc78 (1)](https://user-images.githubusercontent.com/21217148/210182928-97ec5a3f-36ff-45c2-8161-5010634673c4.png)
 
-![image](https://user-images.githubusercontent.com/21217148/210182651-f5cc98f1-b67f-4b37-9cff-e8b1540c9fce.png)
 
 
 
