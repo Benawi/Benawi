@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--[![](https://visitcount.itsvg.in/api?id=Benawi&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 -->
-
+[! 👨‍💻 I am a frontend developer with focus on web fundamentals. I work at CoinDCX to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
 <a href="#">
   <img src="https://visitcount.itsvg.in/api?id=Benawi&label=Profile%20Views&color=3&icon=5&pretty=false" />
 </a>
