@@ -1,5 +1,7 @@
-###  Hi 👋🏻, I'm Habtamu(ቤናዊ) Alemayehu
+                                          ###  Hi 👋🏻, I'm Habtamu(ቤናዊ) Alemayehu
+                                       ## FullStack developer who aims to write quality code
                                     I love creating new things ⚡   Turning imagination into reality 🚀
+👨‍💻 I am a FullStack developer with focus on web fundamentals. I work remotely to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
 <!--
 **Benawi/Benawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📫 The best way to reach me over is Linkedin. You can also send me a mail.
 [![image](https://user-images.githubusercontent.com/21217148/210181196-e06aabd4-57e9-430d-9c75-f550f478321c.png)](https://www.linkedin.com/in/habtamu-alemayehu-b90367101/) 
 [![image](https://user-images.githubusercontent.com/21217148/210183603-9e7ef12d-4452-4120-90a0-e9b31258e891.png)](https://github.com/Benawi)
 [![image](https://user-images.githubusercontent.com/21217148/210182990-23401631-264d-4802-acc2-0e085293d98c.png)](https://github.com/Benawi)
@@ -22,7 +25,7 @@ Here are some ideas to get you started:
 <!--[![](https://visitcount.itsvg.in/api?id=Benawi&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 -->
-[! 👨‍💻 I am a frontend developer with focus on web fundamentals. I work at CoinDCX to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
+
 <a href="#">
   <img src="https://visitcount.itsvg.in/api?id=Benawi&label=Profile%20Views&color=3&icon=5&pretty=false" />
 </a>
