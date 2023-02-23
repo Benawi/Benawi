@@ -2,7 +2,7 @@
 ####                                         FullStack developer who aims to write quality code
                                     I love creating new things ⚡   Turning imagination into reality 🚀
 👨‍💻 I am a FullStack developer with focus on web fundamentals. I work remotely to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
-📫 The best way to reach me over is Linkedin. You can also send me a mail 
+
 <!--
 **Benawi/Benawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
