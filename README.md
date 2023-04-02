@@ -1,5 +1,6 @@
 ###                                              Hi 👋🏻, I'm Habtamu(ቤናዊ) Alemayehu
 ####                                         FullStack developer who aims to write quality code
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Habtamu(%E1%89%A4%E1%8A%93%E1%8B%8A)+Alemayehu;FullStack+developer+who+aims+to+write+quality+code)](https://git.io/typing-svg)
                                     I love creating new things ⚡   Turning imagination into reality 🚀
 👨‍💻 I am a FullStack developer with focus on web fundamentals. I work remotely to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
 
