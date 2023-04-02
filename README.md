@@ -1,5 +1,5 @@
-### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&multiline=true&width=735&height=60&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Habtamu(%E1%89%A4%E1%8A%93%E1%8B%8A)+Alemayehu)](https://git.io/typing-svg)</a></div> 
- <div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=735&height=60&lines=Remote+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+FullStack+developer+who+aims+to+write+quality+code" alt="Typing SVG" /></a></div>
+### <div align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&multiline=true&width=735&height=60&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Habtamu(%E1%89%A4%E1%8A%93%E1%8B%8A)+Alemayehu" alt="Typing SVG" /></a></div> 
+ <div align="center"> <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=735&height=60&lines=Remote+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+FullStack+developer+who+aims+to+write+quality+code" alt="Typing SVG" /></a></div>
                                     I love creating new things ⚡   Turning imagination into reality 🚀
 👨‍💻 I am a FullStack developer with focus on web fundamentals. I work remotely to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
 
