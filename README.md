@@ -1,4 +1,6 @@
-### <div align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&multiline=true&width=345&height=40&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Habtamu(%E1%89%A4%E1%8A%93%E1%8B%8A)+" alt="Typing SVG" /></a></div> 
+### <div align="center"><a href="#"><img src="https://github.com/Benawi/Benawi/assets/21217148/de823737-5f7f-4de8-b62e-3fe88c238eab"/></a></div> 
+### <div align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&multiline=true&width=345&height=40&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Habtamu(%E1%89%A4%E1%8A%93%E1%8B%8A)+" alt="Typing SVG" /></a>
+</div> 
  <div align="center"> <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=735&height=60&lines=Remote+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+FullStack+developer+who+aims+to+write+quality+code" alt="Typing SVG" /></a></div>
 <div align="center"> I love creating new things ⚡   Turning imagination into reality 🚀</div>
 👨‍💻 I am a FullStack developer with focus on web fundamentals. I work remotely to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
