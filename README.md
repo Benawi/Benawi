@@ -49,8 +49,8 @@ HackerRank [![image](https://user-images.githubusercontent.com/21217148/21018523
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=benawi&theme=react&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=benawi&theme=dark&hide_border=false)
-
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=benawi&theme=dark&hide_border=false)  -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=benawi&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=benawi&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
